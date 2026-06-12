@@ -1,4 +1,4 @@
-![alt text](PC11/logo.png)
+<img src="PC11/logo.png" width="200">
 
 # PC11 — a tiny experimental OS (v0.2)
 
