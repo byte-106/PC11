@@ -1,3 +1,5 @@
+![alt text](PC11/logo.png)
+
 # PC11 — a tiny experimental OS (v0.2)
 
 PC11 is a small, from-scratch operating system for modern PCs. It boots
