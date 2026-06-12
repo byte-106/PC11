@@ -1,0 +1,2 @@
+This file lives inside docs/.
+The file manager can browse here.
